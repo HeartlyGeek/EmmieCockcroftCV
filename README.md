@@ -4,7 +4,7 @@
 <h2 align="center">Link of site</h2>
 <br/>
 <div align="center">
-https://xoxotheforzenfox.github.io/EmmieCockcroftCV/
+https://XoXoTheFrozenFox.github.io/EmmieCockcroftCV/
 </div>
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
