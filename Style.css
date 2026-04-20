@@ -344,3 +344,23 @@ a:hover {
     font-size: 20px;
     cursor: pointer;
 }
+@media print {
+  section, .card, .container {
+    break-inside: avoid; /* Prevents the browser from splitting a section across two pages */
+  }
+}
+@media print {
+  body {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}
+@media print {
+  .main-content-area {
+    box-shadow: none !important;
+    border: 1px solid #ddd; /* Use a thin light border instead of a shadow */
+  }
+}
+
+
+
